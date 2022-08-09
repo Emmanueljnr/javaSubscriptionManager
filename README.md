@@ -9,7 +9,10 @@ Fundamentally, the application is written using all object oriented programing p
 
 
 #################################################################
+
 Stage 1 - Gives the user the chance to get a package
+
+#################################################################
 
 The user is provided with 4 options to select at the beginning, ideally they start with option 1 which will allow them to start a subscription of their chosing. This stage will also take in discount codes, however the discount code must meet a certain criteria for example:
 Rule 1 : The code must be 6 characters long
